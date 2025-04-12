@@ -1,18 +1,18 @@
-# 📚 Estudo utilizando HATEOAS e Spring Boot
+# 📚 API utilizando HATEOAS e Spring Boot
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-brightgreen)](https://spring.io/projects/spring-boot)
 [![Swagger](https://img.shields.io/badge/Swagger-3.0-blue)](https://swagger.io/)
 [![Java](https://img.shields.io/badge/Java-21-orange)](https://www.oracle.com/java/)
 
-Uma API RESTful de gerenciamento de livros com HATEOAS, documentação Swagger e recursos do Spring Boot.
+API RESTful de gerenciamento de livros com HATEOAS, documentação Swagger e recursos do Spring Boot.
 
 ## ✨ Funcionalidades
 
-- ✅ Empréstimo e devolução de livros
-- ✅ Links HATEOAS dinâmicos nas respostas
-- ✅ Documentação automática com Swagger UI
-- ✅ Banco de dados H2 em memória
-- ✅ Validações de negócio
+- Empréstimo e devolução de livros
+- Links HATEOAS dinâmicos nas respostas
+- Documentação automática com Swagger UI
+- Banco de dados H2 em memória
+- Validações de negócio
 
 ## 🚀 Como Executar
 
@@ -24,11 +24,11 @@ Uma API RESTful de gerenciamento de livros com HATEOAS, documentação Swagger e
 ### Passos
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/biblioteca-api.git
+   git clone https://github.com/anaclaudiaaraujo/biblioteca-api-hateoas.git
    ```
 2. Entre no diretório:
    ```bash
-   cd biblioteca-api
+   cd biblioteca-api-hateoas
    ```
 3. Execute com Maven:
    ```bash
